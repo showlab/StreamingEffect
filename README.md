@@ -10,7 +10,7 @@
 
 ![Method Overview](assets/method.png)
 
-**(a) Bidirectional Teacher Training:** A bidirectional teacher is trained with reference-conditioned in-context video editing. **(b) Causal Student Distillation:** The teacher is distilled into a causal autoregressive student for streaming generation. **(c) Sliding-window Autoregressive Inference:** The student edits incoming video chunks online with cached context and propagates effects through the stream.*
+<!-- **(a) Bidirectional Teacher Training:** A bidirectional teacher is trained with reference-conditioned in-context video editing. **(b) Causal Student Distillation:** The teacher is distilled into a causal autoregressive student for streaming generation. **(c) Sliding-window Autoregressive Inference:** The student edits incoming video chunks online with cached context and propagates effects through the stream.* -->
 
 ---
 
