@@ -1,0 +1,26 @@
+# SPDX-FileCopyrightText: Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+
+# These dependencies are installed by setup.py when calling `pip install -e .`
+wandb[media]
+diffusers==0.35.1
+transformers==4.49.0
+accelerate
+safetensors
+scipy
+einops
+jupyter
+hydra-core
+imageio
+tqdm
+webdataset
+av
+loguru
+boto3
+timm
+ftfy
+opencv-python-headless
+sentencepiece
+nvidia-ml-py
+numpy<2.0.0
+torch>=2.6.0
