@@ -2,7 +2,7 @@
 
 **Yiren Song, Cheng Liu, Yuxin Jiang, Mike Zheng Shou**
 
-[![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-blue)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.17019-b31b1b.svg)](https://arxiv.org/abs/2605.17019)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange)](https://huggingface.co/datasets/lc03lc/VideoEffect-130K)
 [![Models](https://img.shields.io/badge/Models-HuggingFace-green)](https://huggingface.co/lc03lc/StreamingEffect)
 
@@ -182,11 +182,11 @@ Key hyperparameters:
 ## Citation
 
 ```bibtex
-@inproceedings{song2026streamingeffect,
-  title     = {StreamingEffect: Real-Time Human-Centric Video Effect Generation},
-  author    = {Song, Yiren and Liu, Cheng and Jiang, Yuxin and Shou, Mike Zheng},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026}
+@article{song2026streamingeffect,
+  title={StreamingEffect: Real-Time Human-Centric Video Effect Generation},
+  author={Song, Yiren and Liu, Cheng and Jiang, Yuxin and Shou, Mike Zheng},
+  journal={arXiv preprint arXiv:2605.17019},
+  year={2026}
 }
 ```
 
